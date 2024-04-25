@@ -102,3 +102,8 @@ void traverse () {
     }
 }
 
+void searchData() {
+    if (listempty()) {
+        
+    }
+}
