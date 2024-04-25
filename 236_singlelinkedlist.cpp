@@ -78,3 +78,11 @@ bool deleteNode(int nim){
         START = current->next;
     return true;
 }
+
+bool listempty() {
+    if (START == NULL)
+        return true;
+    else
+        return false;
+}
+
